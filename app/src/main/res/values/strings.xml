@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="category">Underweight - BMI less than 18.5\nNormal healthy weight - BMI between 18.5 and 24.9\nOverweight - BMI between 25.0 and 29.9\nObese - BMI between 30.0 and 39.9\nMorbidly obese - BMI 40.0 and above</string>
+</resources>
