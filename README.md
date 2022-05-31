@@ -12,7 +12,7 @@
     <a href="https://play.google.com/store/apps/details?id=com.mac.bmicalculator">
         <img src="https://travis-ci.org/steverichey/google-play-badge-svg.svg?branch=master" alt="Build status">
     </a>
-    <a href="https://github.com/dev-iamsaurabh/BMICalculator/blob/master/LICENS">
+    <a href="https://github.com/dev-iamsaurabh/BMICalculator/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
     </a>
 </p>
