@@ -5,5 +5,7 @@ Its simple BMI calculator which takes Height and Weight in cm/kg and m/kg and ca
 It has simple UI and a single ad banner in bottom by Google Admob.
 You can get apk on playstore below is link :)
 https://play.google.com/store/apps/details?id=com.mac.bmicalculator
-https://cdn.jsdelivr.net/gh/dev-iamsaurabh/BMICalculator/play.js
 
+<p align="center">
+<img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%">
+</p>
