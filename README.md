@@ -7,5 +7,5 @@ You can get apk on playstore below is link :)
 https://play.google.com/store/apps/details?id=com.mac.bmicalculator
 
 <p align="center">
-<img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/dev-iamsaurabh/BMICalculator/play.js" width="50%">
 </p>
