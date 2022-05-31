@@ -6,12 +6,6 @@
     </h1>
 </p>
 
-<p align="center">
-  • <a href="#about">About</a>
-  • <a href="#license">License</a>
-  • <a href="#available-on">Available on</a>
-
-</p>
 
 
 <p align="center">
@@ -22,6 +16,14 @@
         <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
     </a>
 </p>
+
+<p align="center">
+  • <a href="#about">About</a>
+  • <a href="#license">License</a>
+  • <a href="#available-on">Available on</a>
+
+</p>
+
 
 ## About
 Hey everyone this is my first project for PlayStore.
