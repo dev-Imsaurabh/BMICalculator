@@ -1,10 +1,13 @@
 <p>
     <h1 align="center">
+            <img src="https://play-lh.googleusercontent.com/p6qdQBImjECkyY4HMowK3RsGG_tnkD0E92RgkY4TLik2fpFAHZTC3qUoasFIdhXuGA8=w240-h480-rw" width=2%">
         <a href="https://play.google.com/store/apps/details?id=com.mac.bmicalculator">
             BMI Calculator App (JAVA) by imSoloDeveloper
         </a>
     </h1>
 </p>
+
+
 
 
 
